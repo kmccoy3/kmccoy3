@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kmccoy3
+- 👋 Hi, I’m @kmccoy3 :)
 - 👀 I’m interested in biomedical data science, predictive medicine, machine learning, and cardiology.
 - 🌱 I’m currently learning R, Java, and machine learning.
 - 💞️ I’m looking to collaborate on projects related to the application of data science and machine learning to solve pressing biomedical problems.
