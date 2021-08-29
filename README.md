@@ -8,3 +8,4 @@ Other Links:
 * [LinkedIn](www.linkedin.com/in/kmccoy3) 👥
 * [Google Scholar](https://scholar.google.com/citations?user=yYhuWOAAAAAJ&hl=en) 🎓
 * [ORCID](https://orcid.org/0000-0002-3570-6826) 🔬
+* [Curriculum Vitae](./McCoy_Kevin_CV_2021-08-29.pdf)
