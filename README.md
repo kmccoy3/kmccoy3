@@ -3,7 +3,14 @@
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="images/banner.png" alt="my banner"></a>
 </p>
 
-- 👋 Hi, I’m @kmccoy3 :)
+<h3 align="center">
+Hi there, I'm Kevin 👋
+</h3>
+
+<h2 align="center">
+I'm a Biomedical Engineering Student 🧬, Research Assistant 💻, and Data Engineer 📈
+</h2>
+
 - 👀 I’m interested in biomedical data science, predictive medicine, machine learning, and cardiology.
 - 🌱 I’m currently learning R, Java, and machine learning.
 - 💞️ I’m looking to collaborate on projects related to the application of data science and machine learning to solve pressing biomedical problems.
