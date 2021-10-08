@@ -9,20 +9,21 @@
 - 💞️ I’m looking to collaborate on projects related to the application of data science and machine learning to solve pressing biomedical problems.
 - 📫 You can reach me by emailing me at kevinmccoy678@gmail.com
 
-## Connect with me
+# Connect with me
 
-<a href="https://www.linkedin.com/in/kmccoy3/" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/linkedin.png" alt="Kevin McCoy | LinkedIn" width=20px></a>
+<a href="https://www.linkedin.com/in/kmccoy3/" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/linkedin.png" alt="Kevin McCoy | LinkedIn" width=40px></a>
 
-<a href="https://kmccoy3.github.io/" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/logo.png" alt="Kevin McCoy | Website" width=20px></a>
+<a href="https://kmccoy3.github.io/" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/logo.png" alt="Kevin McCoy | Website" width=40px></a>
 
-<a href="https://twitter.com/kevin_mccoy3" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/twitter.png" alt="Kevin McCoy | Twitter" width=20px></a>
+<a href="https://twitter.com/kevin_mccoy3" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/twitter.png" alt="Kevin McCoy | Twitter" width=40px></a>
 
-<a href="https://orcid.org/0000-0002-3570-6826" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/orcid.png" alt="Kevin McCoy | ORCiD" width=20px></a>
+<a href="https://orcid.org/0000-0002-3570-6826" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/orcid.png" alt="Kevin McCoy | ORCiD" width=40px></a>
 
-<a href="https://scholar.google.com/citations?user=yYhuWOAAAAAJ&hl=en" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/scholar.png" alt="Kevin McCoy | Google Scholar" width=20px></a>
+<a href="https://scholar.google.com/citations?user=yYhuWOAAAAAJ&hl=en" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/scholar.png" alt="Kevin McCoy | Google Scholar" width=40px></a>
 
+</br>
 
-## Technical Skills
+# Technical Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -51,42 +52,3 @@
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-<br />
-
-
-
-
-
-<br />
-<br />
-
----
-
-
-[website]: https://codeSTACKr.com
-
-[twitter]: https://twitter.com/codeSTACKr
-
-
-[linkedin]: https://linkedin.com/in/codeSTACKr
