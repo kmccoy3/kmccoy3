@@ -22,6 +22,7 @@
 <a href="https://scholar.google.com/citations?user=yYhuWOAAAAAJ&hl=en" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/scholar.png" alt="Kevin McCoy | Google Scholar" width=40px></a>
 
 </br>
+</br>
 
 # Technical Skills
 
