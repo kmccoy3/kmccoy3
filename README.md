@@ -8,10 +8,10 @@ Hi there, I'm Kevin 👋
 </h3>
 
 <h2 align="center">
-Biomedical Data Scientist 🧬, NSF GRFP Fellow 💻, Statistics PhD Studet 📈
+Biomedical Data Scientist 🧬, NSF GRFP Fellow 💻, Statistics PhD Student 📈
 </h2>
 
-- 👀 I’m interested in biomedical data science, predictive medicine, machine learning, and cardiology.
+- 👀 I’m interested in data science, computational statistics, and machine learning, as well as their applications to medicine, imaging, and engineering.
 - 🌱 I’m currently learning reinforcement learning, Bayesian analysis, and Julia.
 - 💞️ I’m looking to collaborate on projects related to the application of data science and machine learning to solve pressing biomedical problems.
 - 📫 You can reach me by emailing me at kevin@kmccoy.net
