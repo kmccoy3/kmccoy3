@@ -8,13 +8,13 @@ Hi there, I'm Kevin 👋
 </h3>
 
 <h2 align="center">
-I'm a Biomedical Engineering Student 🧬, Research Assistant 💻, and Data Engineer 📈
+Biomedical Data Scientist 🧬, NSF GRFP Fellow 💻, Statistics PhD Studet 📈
 </h2>
 
 - 👀 I’m interested in biomedical data science, predictive medicine, machine learning, and cardiology.
-- 🌱 I’m currently learning R, Java, and machine learning.
+- 🌱 I’m currently learning reinforcement learning, Bayesian analysis, and Julia.
 - 💞️ I’m looking to collaborate on projects related to the application of data science and machine learning to solve pressing biomedical problems.
-- 📫 You can reach me by emailing me at kevinmccoy678@gmail.com
+- 📫 You can reach me by emailing me at kevin@kmccoy.net
 
 # Connect with me
 
