@@ -12,9 +12,39 @@ Biomedical Data Scientist 🧬, NSF GRFP Fellow 💻, Statistics PhD Student �
 </h2>
 
 - 👀 I’m interested in data science, computational statistics, and machine learning, as well as their applications to medicine, imaging, and engineering.
-- 🌱 I’m currently learning reinforcement learning, Bayesian statistics, and Julia.
-- 💞️ I’m looking to collaborate on projects related to the application of data science and machine learning to solve pressing biomedical problems.
+- 💞️ My thesis projects thus far have revolved around decision trees and their extensions, and how these methods can be modified to better model complex data.
+- 🌱 I’m currently working on an Rcpp package that improves Bayesian tree-based ensemble models in the presence of measurement error.
 - 📫 You can reach me by emailing me at <kevin@kmccoy.net>
+
+# My Repositories
+
+### Reproductions of Standard ML Algorithms
+
+- [Neural Network From Scratch (No PyTorch!)](https://github.com/kmccoy3/km-net)
+- [Decision Trees with Customizable Cost Functions](https://github.com/kmccoy3/km-cart)
+- [EM Algorithm for Gaussian Mixture Models](https://github.com/kmccoy3/kevinRpkg)
+
+### Repos Associated with Published Papers
+
+- ["Weighted sum-of-trees model for clustered data", McCoy et al. 2025](https://github.com/kmccoy3/weighted-trees)
+
+
+### Standalone Projects
+
+- [An Exploration of Bayesian Quantile Regression and Comparison to Other Methods](https://github.com/kmccoy3/bayesian-qr)
+- [Extension of John Tukey's 'Mathematics and the Picturing of Data' into Three Dimensions](https://github.com/kmccoy3/3D-DataReduction-DataVis)
+
+### Useful Templates
+
+- [Rice University LaTeX/Beamer Presention Template](https://github.com/kmccoy3/rice-presentation-template)
+- [Rice University LaTeX Poster Template](https://github.com/kmccoy3/rice-poster-template)
+
+
+### Class Notes + Starter Code
+
+- [Computer Vision Notes](https://github.com/kmccoy3/cv_notes)
+- [Reinforcement Learning Notes](https://github.com/kmccoy3/rl_notes)
+
 
 # Connect with me
 
@@ -28,36 +58,5 @@ Biomedical Data Scientist 🧬, NSF GRFP Fellow 💻, Statistics PhD Student �
 
 </br>
 </br>
-
-# Technical Skills
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/MATLAB-123456?style=flat-square)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Static Badge](https://img.shields.io/badge/PyTorch-999999?style=flat-square&logo=pytorch)
-
-
-
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 
 
