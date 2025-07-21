@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="images/banner.png" alt="my banner"></a>
+  <img src="images/banner.png" alt="my banner">
 </p>
 
 <h3 align="center">
@@ -8,7 +8,7 @@ Hi there, I'm Kevin 👋
 </h3>
 
 <h2 align="center">
-Biomedical Data Scientist 🧬, NSF GRFP Fellow 💻, Statistics PhD Student 📈
+Data Scientist 📊, NSF GRFP Fellow 💻, Statistics PhD Student 📈
 </h2>
 
 - 👀 I’m interested in data science, computational statistics, and machine learning, as well as their applications to medicine, imaging, and engineering.
