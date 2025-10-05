@@ -8,7 +8,7 @@ Hi there, I'm Kevin 👋
 </h3>
 
 <h2 align="center">
-Data Scientist 📊, NSF GRFP Fellow 💻, Statistics PhD Candidate 📈
+Statistics PhD Candidate 📈, NSF GRFP Fellow 💻, Data Scientist 📊
 </h2>
 
 - 👀 I’m interested in data science, computational statistics, and machine learning, as well as their applications to medicine, imaging, and engineering.
